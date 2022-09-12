@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nickname_text" type="id" />
+    <item name="name_text" type="id" />
+    <item name="nickname_edit" type="id" />
+    <item name="done_button" type="id" />
+    <item name="star_image" type="id" />
+    <item name="bio_scroll" type="id" />
+    <item name="bio_text" type="id" />
+</resources>
